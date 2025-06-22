@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Madhuritgithub/react-portfolio/static/css/main.861778fd.css",
+    "main.js": "/Madhuritgithub/react-portfolio/static/js/main.83128ee3.js",
+    "index.html": "/Madhuritgithub/react-portfolio/index.html",
+    "main.861778fd.css.map": "/Madhuritgithub/react-portfolio/static/css/main.861778fd.css.map",
+    "main.83128ee3.js.map": "/Madhuritgithub/react-portfolio/static/js/main.83128ee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861778fd.css",
+    "static/js/main.83128ee3.js"
+  ]
+}
